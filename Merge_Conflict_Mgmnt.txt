@@ -1,5 +1,6 @@
-
 I am making a change as developer_b
 I am making changes as developer_a
+I am making changes as developer_a. Now lets rock and roll.
+
 
 This is new file signifying understanding of merge conflicts that appear into teams with  multiple developers 
