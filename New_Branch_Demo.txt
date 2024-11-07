@@ -1,0 +1,10 @@
+This is a new file. checking the how the commits happen into a new branch.
+Steps to remember 
+
+1) Check whether this file is being tracked by git. can check through git status2) add the file to be tracked into staging environment
+3) commit the file changes into the stagong environment 
+4) One can check the diff .. git diff --staged
+5) Push the changes into the created branch "not the main branch"
+6) then we will check how to merge the changes from the current branch into main branch 
+    -- move to main branch -- git checkout main
+    -- git merge [new_branch_name]
